@@ -11,7 +11,6 @@ I'm a Software Engineering student and Customer Success Manager who currently wo
 - 🌱 I’m currently learning Cloud; Linux, AWS, GCP and Azure.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Cloud Engineer, or Devops Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing blessingnwabueze88@gmail.com
 
 ---
 
